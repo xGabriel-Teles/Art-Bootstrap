@@ -1,5 +1,6 @@
-<div align="center"> <b>Art - Exibições de arte urbana
-Projeto criado com a finalidade de praticar os conhecimentos obtidos através do curso <b>BOOTSTRAP 5</b> na Udemy.</div>
+<div align="center"> 
+  <h1>Art - Exibições de arte urbana</h1>
+<b>Projeto criado com a finalidade de praticar os conhecimentos obtidos através do curso <b>BOOTSTRAP 5</b> na Udemy.</div>
 
 ------------
 
